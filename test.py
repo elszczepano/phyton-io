@@ -1,4 +1,4 @@
-# Simple calc
+# Simple calc advanced
 
 def hello(name):
     return "Hemlo" + str(name)
