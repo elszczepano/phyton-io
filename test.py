@@ -3,11 +3,15 @@
 def hello(name):
     return "Hello" + str(name)
 
-def dodaj(a,b):
-    wynik = float(a) + float(b)
-    return wynik;
+def add(a,b):
+    sum = float(a) + float(b)
+    return sum;
 
-pierwsza = input()
-druga = input()
+def sub(a,b):
+    diff = float(a) - float(b)
+    return diff;
 
-print(dodaj(pierwsza,druga))
+first = input()
+second = input()
+
+print(add(first,second))
