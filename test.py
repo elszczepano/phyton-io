@@ -1,7 +1,7 @@
 # Simple calc
 
 def hello(name):
-    return "Hemlo" + str(name)
+    return "Hello" + str(name)
 
 def add(a,b):
     sum = float(a) + float(b)
