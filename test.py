@@ -15,3 +15,6 @@ first = input()
 second = input()
 
 print(add(first,second))
+
+#Nie mam się do czego w tym  kodzie przyczepić. Nawet zmienne są w języku angielskim. A po co psuć taki ładny kod :)
+# Dodam po prostu ten komentarz, jako forma zmiany pliku. I wykonam PR. 
