@@ -20,3 +20,5 @@ print(add(first,second))
 # Dodam po prostu ten komentarz, jako forma zmiany pliku. I wykonam PR.
 
 # Mam na imię Dominik (G.), ale tu jest fajnie
+
+#Musze przyznać, że kod wygląda wzorowo. Komentarz do PR.
